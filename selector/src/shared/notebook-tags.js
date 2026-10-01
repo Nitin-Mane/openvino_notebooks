@@ -70,6 +70,7 @@ export const TASKS = /** @type {const} */ ({
   OTHER: {
     KNOWLEDGE_REPRESENTATION: 'Knowledge Representation',
     BYTES_CLASSIFICATION: 'Bytes Classification',
+    TIME_SERIES_FORECASTING: 'Time Series Forecasting',
   },
 });
 
